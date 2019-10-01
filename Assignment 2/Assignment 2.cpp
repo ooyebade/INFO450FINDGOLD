@@ -120,6 +120,6 @@ int coutGameRules()
 //
 int populateArray(char guessArray[Rows][Columns])
 {
-
+ 
 }
 
